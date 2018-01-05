@@ -7,7 +7,7 @@ defmodule HtmlEntities.Mixfile do
       version: "0.4.0",
       name: "HtmlEntities",
       source_url: "https://github.com/martinsvalin/html_entities",
-      elixir: "~> 1.3",
+      elixir: "~> 1.2.3",
       description: description(),
       package: package(),
       deps: deps()
